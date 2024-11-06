@@ -1,5 +1,5 @@
 
-# Gliner Model Deployment with Triton Server and Alternative Server Options
+# Gliner Model Deployment methods
 
 This repository provides a comprehensive guide and examples for deploying the **Gliner Named Entity Recognition (NER) model**, with a primary focus on **NVIDIA's Triton Inference Server**. Additionally, it includes adaptable configurations and guidance for deploying Gliner on other compatible servers where supported.
 
